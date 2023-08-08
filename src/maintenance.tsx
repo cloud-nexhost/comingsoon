@@ -12,6 +12,7 @@ import {
   subFooterCSS,
   footerLinkCSS,
   footerTitleCSS,
+  footerSubtitleCSS,
 } from "./styles/emotion/app";
 
 import "./utils/i18n/maintenance";
