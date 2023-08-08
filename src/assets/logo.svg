@@ -1,0 +1,28 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="1000" height="1000">
+	<title>waktaplay_logo_new</title>
+	<defs>
+		<linearGradient id="g1" x1="510.2" y1="292.9" x2="207.4" y2="546.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b7fb9c"/>
+			<stop offset="0" stop-color="#b7fb9c"/>
+			<stop offset="1" stop-color="#93f9ab"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="358.6" y1="78.6" x2="358.6" y2="332.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#cbfe96"/>
+			<stop offset="0" stop-color="#cbfe96"/>
+			<stop offset="1" stop-color="#b7fb9c"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="448.3" y1="78.6" x2="448.3" y2="338.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#e6fe86"/>
+			<stop offset="1" stop-color="#cbfe96"/>
+			<stop offset="1" stop-color="#cbfe96"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+	</style>
+	<path id="Bottom" class="s0" d="m317 166.5c29 16.7 29 58.5 0 75.2l-157 90.7c-29 16.7-65.2-4.2-65.2-37.6v69.9c0 42.6 46.1 69.2 82.9 47.9l199.9-115.4c36.8-21.3 36.8-74.5 0-95.8z"/>
+	<path id="Right" class="s1" d="m94.8 203.9c0-33.5 36.2-54.4 65.2-37.7l157 90.7c29 16.7 29 58.6 0 75.3l60.6-35c36.8-21.3 36.8-74.5 0-95.7l-199.9-115.4c-36.8-21.3-82.9 5.3-82.9 47.9z"/>
+	<path id="Left" class="s2" d="m160 332.4l13.1-7.6v-166.1c0-33.5 36.2-54.4 65.2-37.7l-60.6-34.9c-36.8-21.3-82.9 5.3-82.9 47.9v160.8c0 33.4 36.2 54.3 65.2 37.6z"/>
+</svg>
