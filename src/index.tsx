@@ -39,7 +39,7 @@ export default function App() {
         <p css={contentCSS}>{t("desc1")}</p>
         <p css={contentCSS}>{t("desc2")}</p>
         <footer css={subFooterCSS}>
-          <a href="https://youtu.be/8KTFf2X-ago" target="_blank" css={footerLinkCSS}>
+          <a href="https://youtu.be/rDFUl2mHIW4" target="_blank" css={footerLinkCSS}>
             <p css={footerSubtitleCSS}>
               {t("music")}
             </p>
